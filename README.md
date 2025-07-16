@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/gust__a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href= https://outlook.live.com/mail/0/?refd=account.microsoft.com&fref=home.banner.viewinbox
+  <a href="https://outlook.live.com/mail/0/?refd=account.microsoft.com&fref=home.banner.viewinbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
@@ -35,5 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustaMarc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustaMarc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GustaMarc/GustaMarc/output/snake.svg" alt="Snake animation" />
 
 ###
