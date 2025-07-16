@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/gust__a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="[gustavomarcondes999@hotmail.com"](https://outlook.live.com/mail/0/?refd=account.microsoft.com&fref=home.banner.viewinbox) target="_blank">
+  <a href= https://outlook.live.com/mail/0/?refd=account.microsoft.com&fref=home.banner.viewinbox
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
